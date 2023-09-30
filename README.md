@@ -8,3 +8,5 @@
    Kanal grup kanalı da olabilir.
 
    Sisteminize eklenen coinlerin belirtilen sürelerde sistemden fiyat güncellemesini tekrar alarak yüzdelik değişimlerini size yine telegram üzerinden gönderir. 
+
+   Haftasonu hobi projesidir. 
